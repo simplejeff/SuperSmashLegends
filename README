@@ -1,0 +1,39 @@
+README
+
+jmhao
+
+JMHao Rubric
+
+CONTRIB REQUIREMENTS:
+Finished contrib requirements, game can be run from terminal with the command SuperSmashLegends
+
+VIDEO REQUIREMENTS:
+Handed in a video through emailing TA list.
+
+
+Final 3
+--------
+[ ] - Attacks
+    [ ] - Standard Attacks
+	-standard attacks are melee or ranged, with the primary attack key
+    [ ] - Special Attacks
+	-special attacks are a assortment of ranged attacks and a blink, with the secondary attack key
+[ ] - Attack coordination/physics
+    [ ] - Timing/canceling
+	-all of the timing is logically accurate, with attacking overriding other move frames till it completes
+    [ ] - Hitstun
+	-hitstun and other status effects stop the specific movements they do until they're over
+    [ ] - Knockback / windbox
+	-knockback is based on entity collisions and windbox knocks directly up with an impulse
+
+
+Final 4
+---------
+[ ] - Sprites & Animation
+	-all sprites and animations are put in
+[ ] - Status effects
+    [ ] - UI notification above player
+	-Yes, there is a status effect that appears above the players head
+    [ ] - Freeze, poison
+	-Yes, both of these are implemented (freeze and attack poison/blind)
+

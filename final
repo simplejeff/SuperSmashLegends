@@ -1,0 +1,12 @@
+My final project will be a platformer game, similar to super smash. The characters will be based off of the game characters from League of Legends.
+It will be a PvP mode of 1v1
+
+There will be left and right movement, and ducking and jumping. There will be two attack buttons, including a basic attack, a special attack, and possibly another combo of ducking + special attack to use another move.
+
+All engine code will be my own as I am a solo group. 
+
+Engine features:
+5 pts - dialogue boxes (before each match, between the two characters).
+3 pts + 2 pts - particles from attacks, and music (soundtrack/attack move effects)
+
+jmhao

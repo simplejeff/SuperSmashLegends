@@ -1,0 +1,22 @@
+INSTRUCTIONS
+
+jmhao
+
+Instructions:
+Start the game on eclipse by running 'Final.java' in the jmhao/game folder in eclipse.
+
+You will enter the menu screen. As the instructions say, you can navigate between selecting character 1 or 2 with UP and DOWN, and W and S keys respectively, and selecting an option with G or 1.
+Once you select your two characters, press ENTER to start the game.
+You can click on a music option to play it.
+
+You can enter the game screen on the second option. Here, you move with WASD for player 1, and arrow keys for player 2.
+You can shoot bullets with G for player 1, and 1 for player 2.
+You punch instead for the two characters 'Yasuo' and 'Braum'.
+
+Ducking reduces knockback
+
+Secondary attacks are H for player 1, and 2 for player 2.
+yasuo : tornado knock up
+Braum : freeze spell
+Teemo : blinding dart ( prevents attacks)
+Ezreal : blink teleport
